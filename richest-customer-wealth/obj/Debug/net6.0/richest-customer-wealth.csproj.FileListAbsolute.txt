@@ -1,0 +1,15 @@
+C:\repos\algorithms-and-data-structure\richest-customer-wealth\obj\Debug\net6.0\richest-customer-wealth.csproj.AssemblyReference.cache
+C:\repos\algorithms-and-data-structure\richest-customer-wealth\obj\Debug\net6.0\richest-customer-wealth.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\algorithms-and-data-structure\richest-customer-wealth\obj\Debug\net6.0\richest-customer-wealth.AssemblyInfoInputs.cache
+C:\repos\algorithms-and-data-structure\richest-customer-wealth\obj\Debug\net6.0\richest-customer-wealth.AssemblyInfo.cs
+C:\repos\algorithms-and-data-structure\richest-customer-wealth\obj\Debug\net6.0\richest-customer-wealth.csproj.CoreCompileInputs.cache
+C:\repos\algorithms-and-data-structure\richest-customer-wealth\bin\Debug\net6.0\richest-customer-wealth.exe
+C:\repos\algorithms-and-data-structure\richest-customer-wealth\bin\Debug\net6.0\richest-customer-wealth.deps.json
+C:\repos\algorithms-and-data-structure\richest-customer-wealth\bin\Debug\net6.0\richest-customer-wealth.runtimeconfig.json
+C:\repos\algorithms-and-data-structure\richest-customer-wealth\bin\Debug\net6.0\richest-customer-wealth.dll
+C:\repos\algorithms-and-data-structure\richest-customer-wealth\bin\Debug\net6.0\richest-customer-wealth.pdb
+C:\repos\algorithms-and-data-structure\richest-customer-wealth\obj\Debug\net6.0\richest-customer-wealth.dll
+C:\repos\algorithms-and-data-structure\richest-customer-wealth\obj\Debug\net6.0\refint\richest-customer-wealth.dll
+C:\repos\algorithms-and-data-structure\richest-customer-wealth\obj\Debug\net6.0\richest-customer-wealth.pdb
+C:\repos\algorithms-and-data-structure\richest-customer-wealth\obj\Debug\net6.0\richest-customer-wealth.genruntimeconfig.cache
+C:\repos\algorithms-and-data-structure\richest-customer-wealth\obj\Debug\net6.0\ref\richest-customer-wealth.dll
